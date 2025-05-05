@@ -1,0 +1,40 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+
+  #main-header{
+    background-color: #4a90e2;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px solid #2c6bb2;
+
+  }
+
+  .content{
+    padding: 20px;
+    margin: 30px;
+    background-color: white;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    text-align: center;
+  }
+
+  .styled-img{
+    width: 100%;
+    max-width: 300px;
+    border: 5px solid #4a90e2;
+    border-radius: 10px;
+    margin-top: 3px;
+  }
+
+  footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
